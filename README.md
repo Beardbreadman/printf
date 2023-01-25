@@ -52,4 +52,4 @@
 
 * **Wonderful A. Adebayo** - [Github](https://github.com/beardbreadman)
 
-* **Sodiq Ganiyu Oladipupo** - [Github](https://github.com/Sodman007)
+* **Sodiq Oladipupo** - [Github](https://github.com/Sodman007)
